@@ -1,6 +1,4 @@
 <h1>Portfollio</h1>
-<h3>Link</h3>
-<p>https://developer-kimsky.github.io/portfollio/</p>
 
 <h3>Tech Stack</h3>
 <div style=="display:flex;">
@@ -10,4 +8,4 @@
 </div>
 
 <h3>Description</h3>
-<p>포트폴리오 페이지/p>
+<p>포트폴리오 페이지. 수정중/p>
